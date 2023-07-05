@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
-</div>
-
 ## Hello✨
 
 - 👋 Hi, I’m @HeinzDev
@@ -9,18 +5,17 @@
 - ❄️ Currently learning Typescript, ReactJS and a few other things...
 - 💠 I’m looking to collaborate on junior projects!
 - 📫 How to reach me ... email me in heinz1dev@gmail.com!
-- 
+
+<div id="header" align="center">
+  <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
+</div>
+  
 ## Projects💎
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Tabz&theme=aura)
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=GitHubUserFinder&theme=aura)
-
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Nix-dotfiles&theme=aura)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Black-Saturn&theme=aura&card_width=500)
-
-**To check more projects access my [repositories page](https://github.com/HeinzDev?tab=repositories)!**
+ **To check more projects access my [repositories page](https://github.com/HeinzDev?tab=repositories)!**
 
 ## Stats ⚡
 
