@@ -1,10 +1,9 @@
 ## Hello✨
 
-- 👋 Hi, I’m @HeinzDev
 - ✨ I’m interested in Linux, software development and programing.
 - ❄️ Currently learning Typescript, ReactJS and a few other things...
 - 💠 I’m looking to collaborate on junior projects!
-- 📫 How to reach me ... email me in heinz1dev@gmail.com!
+- 📫 Reach me in heinz1dev@gmail.com!
 
 <div id="header" align="center">
   <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
