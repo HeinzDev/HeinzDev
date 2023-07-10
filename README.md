@@ -12,7 +12,7 @@
 ## Projects💎
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Tabz&theme=aura)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Nix-dotfiles&theme=aura)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Hyprland-dotfiles&theme=aura)
 
  **To check more projects access my [repositories page](https://github.com/HeinzDev?tab=repositories)!**
 
