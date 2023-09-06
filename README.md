@@ -1,7 +1,7 @@
 ## Hello✨
 
 - ✨ I’m interested in Linux, software development and programing.
-- ❄️ Currently learning Typescript, ReactJS and a few other things...
+- ❄️ Currently learning Typescript, ReactJS, Nix, Rust and a few other things...
 - 💠 I’m looking to collaborate on junior projects!
 - 📫 Reach me in heinz1dev@gmail.com!
 
@@ -11,7 +11,7 @@
   
 ## Projects💎
 
-<a href="https://github.com/HeinzDev/Tabz">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Tabz&theme=aura)</a>
+<a href="https://github.com/HeinzDev/AutoPrettier">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=AutoPrettier&theme=aura)</a>
 <a href="https://github.com/HeinzDev/Hyprland-dotfiles">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Hyprland-dotfiles&theme=aura)</a>
 
  **To check more projects access my [repositories page](https://github.com/HeinzDev?tab=repositories)!**
