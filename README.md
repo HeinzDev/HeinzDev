@@ -1,7 +1,7 @@
 ## Hello✨
 
 - ✨ I’m interested in Linux, software development and programing.
-- ❄️ Currently learning Typescript <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=256" width="20" height="20" />, ReactJS, Nix<img src="https://camo.githubusercontent.com/8c73ac68e6db84a5c58eef328946ba571a92829b3baaa155b7ca5b3521388cc9/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67" width="20" heigth="20">, Rust<img src="https://cdn.iconscout.com/icon/free/png-512/free-rust-458183.png?f=webp&w=256" width="20" heigth="20"> and a few other things... 
+- ❄️ Currently learning Typescript <img src="https://cdn.iconscout.com/icon/free/png-512/free-typescript-1174965.png?f=webp&w=256" width="20" height="20" />, ReactJS<img src="https://i.imgur.com/HjiP1xD.png" width="20" heigth="20">, Nix<img src="https://camo.githubusercontent.com/8c73ac68e6db84a5c58eef328946ba571a92829b3baaa155b7ca5b3521388cc9/68747470733a2f2f692e696d6775722e636f6d2f367146436c41312e706e67" width="20" heigth="20">, Rust<img src="https://cdn.iconscout.com/icon/free/png-512/free-rust-458183.png?f=webp&w=256" width="20" heigth="20"> and a few other things... 
 - 💠 I’m looking to collaborate on junior projects!
 - 📫 Reach me in heinz1dev@gmail.com!
 
