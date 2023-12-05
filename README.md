@@ -11,7 +11,7 @@
   
 ## Projects💎
 
-<a href="https://github.com/HeinzDev/AutoPrettier">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=AutoPrettier&theme=aura)</a>
+<a href="https://github.com/HeinzDev/Timothy-Project">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Timothy-Project&theme=aura)</a>
 <a href="https://github.com/HeinzDev/Hyprland-dotfiles">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Hyprland-dotfiles&theme=aura)</a>
 
  **To check more projects access my [repositories page](https://github.com/HeinzDev?tab=repositories)!**
