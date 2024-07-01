@@ -13,8 +13,8 @@
 
 <a href="https://github.com/HeinzDev/Timothy-Project">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Timothy-Project&theme=aura)</a>
 <a href="https://github.com/HeinzDev/Hyprland-dotfiles">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Hyprland-dotfiles&theme=aura)</a>
-<a href="https://github.com/HeinzDev/Hyprland-dotfiles">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Game-Launcher-Java&theme=aura)</a>
-<a href="https://github.com/HeinzDev/Hyprland-dotfiles">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=TodoList-ReactJs&theme=aura)</a>
+<a href="https://github.com/HeinzDev/Game-Launcher-Java">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=Game-Launcher-Java&theme=aura)</a>
+<a href="https://github.com/HeinzDev/TodoList-ReactJs">![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HeinzDev&repo=TodoList-ReactJs&theme=aura)</a>
 
  **To check more projects access my [repositories page](https://github.com/HeinzDev?tab=repositories)!**
 
