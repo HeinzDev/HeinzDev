@@ -6,7 +6,7 @@
 - 📫 Reach me in heinz1dev@gmail.com!
 
 <div id="header" align="center">
-  <img src="https://i.imgur.com/RtsYtRt.png" width="100"/>
+  <img src="https://i.imgur.com/OojM6I5.png" width="100"/>
 </div>
   
 ## Projects 💎
